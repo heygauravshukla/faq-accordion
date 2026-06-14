@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/faq-accordion-using-html-details-and-summary-element-yyOE_C8cbX)
 - Live Site URL: [Click here](https://heygauravshukla.github.io/faq-accordion)
 
 ## My process
