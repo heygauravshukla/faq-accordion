@@ -169,6 +169,10 @@ summary {
 }
 
 /* Attribution styles */
+footer {
+  padding-block: 2rem;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
